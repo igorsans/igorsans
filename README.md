@@ -1,17 +1,17 @@
-<img src="./Hi_and_welcome.png">
+<img src="./img/Hi_and_welcome.png">
 <hr>
 <div style="display:flex;">
-    <div style="height: 500px; width:110px; background-color:white; text-align:center"><h1 style="font-size:1.5em; color:black;">Contact <img src="https://cdn141.picsart.com/342735174010211.png" style="width:30px;"></h1>
+    <div style="height: 500px; width:110px; background-color:white; text-align:center"><h1 style="font-size:1.5em; color:black;">Contact <img src="./img/ringring.png" style="width:30px;"></h1>
     <p>
     <a style="color: blue; text-decoration:none;" href="https://www.linkedin.com/in/devsantos/">
     <p>/devsantos</p>
-    <img style="width:40px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdp7Y32Mc2wWNOI3g0hJCQZQyVgSQezzhcQ&usqp=CAU"></a>
-    <p> <a style="color: blue; text-decoration:none;" href="https://igorsans.github.io/trajetoria/">My first web project <br> <img src="./website.gif"></p></a>
-    <img src="./emote 1 (1).png">
+    <img style="width:40px;" src="./img/in.png"></a>
+    <p> <a style="color: blue; text-decoration:none;" href="https://igorsans.github.io/trajetoria/">My first web project <br> <img src="./img/website.gif"></p></a>
+    <img src="./img/emote.png">
     </div>
     <div style="display: flex">
         <div style="width: 440px; margin-left:60px; background-color: "> Hello 👋, and welcome<br> My name is Igor, I'm a software developer and I'm from Brazil.<hr>
-        <img src="./90s.jpg" width="230"></div>
+        <img src="./img/90s.jpg" width="230"></div>
         <div style="width: 240px; margin-left:30px;">
             <h2>🔧Technologies & Tools</h2>
             <br>
@@ -29,9 +29,9 @@
         </div>
     </div>
 </div>
-<img src="./an.jpg" style="margin-top:5px">
+<img src="./img/an.jpg" style="margin-top:5px">
 <hr>
 <p style="margin-left: 100px;"></p>
-Best Viwer with<br><img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" height="50px"/>
+Best Viwer with<br><img src="./img/ie_logo.gif" height="50px"/>
 <br>
-<img src="./chicken.gif">
+<img src="./img/chicken.gif">
