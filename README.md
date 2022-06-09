@@ -10,7 +10,7 @@
     <img src="./img/emote.png">
     </div>
     <div style="display: flex">
-        <div style="width: 440px; margin-left:60px; background-color: "> Hello 👋, and welcome<br> My name is Igor, I'm a software developer and I'm from Brazil.<hr>
+        <div style="width: 440px; margin-left:60px; background-color: "> Hello <img src="./img/hi.gif">, and welcome<br> My name is Igor, I'm a software developer and I'm from Brazil.<hr>
         <img src="./img/90s.jpg" width="230"></div>
         <div style="width: 240px; margin-left:30px;">
             <h2>🔧Technologies & Tools</h2>
