@@ -1,37 +1,28 @@
 <img src="./img/Hi_and_welcome.png">
-<hr>
-<div style="display:flex;">
-    <div style="height: 500px; width:110px; background-color:white; text-align:center"><h1 style="font-size:1.5em; color:black;">Contact <img src="./img/ringring.png" style="width:30px;"></h1>
-    <p>
-    <a style="color: blue; text-decoration:none;" href="https://www.linkedin.com/in/devsantos/">
-    <p>/devsantos</p>
-    <img style="width:40px;" src="./img/in.png"></a>
-    <p> <a style="color: blue; text-decoration:none;" href="https://igorsans.github.io/trajetoria/">My first web project <br> <img src="./img/website.gif"></p></a>
-    <img src="./img/emote.png">
-    </div>
-    <div style="display: flex">
-        <div style="width: 440px; margin-left:60px;"> Hello, and welcome<br> My name is Igor, I'm a software developer and I'm from Brazil.<hr>
-        <img src="./img/90s.jpg" width="230"></div>
-        <div style="width: 240px; margin-left:30px;">
-            <h2>🔧Technologies & Tools</h2>
-            <br>
-                <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25"/>
-                <img src="https://img.shields.io/badge/Java-282C34?logo=Java&logoColor=ff0000" alt="Java logo" title="Java" height="25"/>
-                <img src="https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=ffffff" alt="MySql logo" title="MySql" height="25"/>
-                <img src="https://img.shields.io/badge/vue-282C34?logo=v&logoColor=0099ff" alt="Vue logo" title="Vue" height="25"/>
-                <img src="https://img.shields.io/badge/React.JS-282C34?logo=react&logoColor=0099ff" alt="React logo" title="React" height="25"/>
-                <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=0099ff" alt="CSS3 logo" title="CSS3" height="25"/>
-                <img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery&logoColor=ffffff" alt="CSS3 logo" title="Jquery" height="25"/>
-                <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=ff3c00" alt="HTML5 logo" title="HTML5" height="25"/>
-                <img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=ff0000" alt="Git hub logo" title="Git Hub" height="25"/>
-                <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=ff0000" alt="Git logo" title="Git" height="25"/>
-            </p>
+
+
+```
+Hello, and welcome
+My name is Igor, I'm a software developer from Brazil.
+```
+
+<div align="center">
+    <img src="./img/emote.png"/>
+    <br>
+    <img src="https://img.shields.io/badge//devsantos-282C34?logo=linkedin&logoColor=0A66C2" alt="HTML5 logo" title="linkedin" height="25"/>
+       <hr>
+        <div align="center" style="display: inline_block"><br>
+            <img align="center" alt="JavaScript Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            <img align="center" alt="Node Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+            <img align="center" alt="React Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+            <img align="center" alt="Java Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
         </div>
-    </div>
+        <br>
+    <img src="./img/an.jpg" style="margin-top:5px">
 </div>
-<img src="./img/an.jpg" style="margin-top:5px">
-<hr>
-<p style="margin-left: 100px;"></p>
-Best Viwer with<br><img src="./img/ie_logo.gif" height="50px"/>
-<br>
-<img src="./img/chicken.gif">
+<div align="center">
+    <hr>
+        <p>Best Viwer with</p>
+        <img src="./img/ie_logo.gif" height="50px"/>
+    <br>
+</div>
