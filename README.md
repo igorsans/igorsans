@@ -2,6 +2,7 @@
 Hello, and welcome
 My name is Igor, I'm a software developer from Brazil.
 ```
+
 <div align="center">
 
 </div>
@@ -27,24 +28,76 @@ My name is Igor, I'm a software developer from Brazil.
         <div align="center" style="display: inline_block">
         <picture>
         <source srcset="./img/node.svg" media="(prefers-color-scheme: dark)" />
-        <source srcset="./img/mongodb.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <source srcset="./img/nodew.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/node.svg">
         </picture>
+        <picture>
+        <source srcset="./img/react.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/reactw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/react.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/aws.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/awsw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/aws.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/spring.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/springw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/spring.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/mongodb.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/mongodbw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/mongodb.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/javascript.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/javascriptw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/javascript.svg">
+        </picture>
             <br>
+        <picture>
+        <source srcset="./img/next.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/nextw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/next.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/vite.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/vitew.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/vite.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/html.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/htmlw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/html.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/css.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/cssw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/css.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/sc.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/scw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/sc.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/bootstrap.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/bootstrapw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/bootstrap.svg">
+        </picture>
             <br>
+        <picture>
+        <source srcset="./img/mui.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/muiw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/mui.svg">
+        </picture>
+        <picture>
+        <source srcset="./img/git.svg" media="(prefers-color-scheme: dark)" />
+        <source srcset="./img/gitw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/git.svg">
+        </picture>
         </div>
         <br>
 </div>
