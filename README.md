@@ -26,11 +26,11 @@ My name is Igor, I'm a software developer from Brazil.
     <a href="https://api.whatsapp.com/send?phone=5521980505130&text=Igor+Santos%2C+Desenvolvedor%2C+Me+Envie+uma+mensagem%21"><img src="https://img.shields.io/badge/(21)98050--5130-282C34?logo=whatsapp&logoColor=F1F1F1" alt="LinkedIn" title="linkedin" height="25"/></a>
        <hr>
         <div align="center" style="display: inline_block">
-        <!-- <picture>
+        <picture>
         <source srcset="./img/node.svg" media="(prefers-color-scheme: dark)" />
         <source srcset="./img/nodew.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
             <img width="70px" src="./img/node.svg">
-        </picture> -->
+        </picture>
         <picture>
         <source srcset="./img/react.svg" media="(prefers-color-scheme: dark)" />
         <source srcset="./img/reactw.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
