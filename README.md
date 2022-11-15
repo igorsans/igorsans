@@ -1,11 +1,9 @@
 ```
 Hello, and welcome
 My name is Igor, I'm a software developer from Brazil.
+Master's student in analysis and systems development at the Anhanguera college.
 ```
 
-<div align="center">
-
-</div>
 <div align="center">
 <picture>
 <source 
@@ -25,6 +23,7 @@ My name is Igor, I'm a software developer from Brazil.
     <a href="mailto:igor.santos0@hotmail.com"><img src="https://img.shields.io/badge/igor.santos0@hotmail.com-282C34?logo=Microsoft Outlook&logoColor=F1F1F1" alt="Envie-me um e-mail" title="Clique aqui e me envie um email!" height="25"/></a>
     <a href="https://api.whatsapp.com/send?phone=5521980505130&text=Igor+Santos%2C+Desenvolvedor%2C+Me+Envie+uma+mensagem%21"><img src="https://img.shields.io/badge/(21)98050--5130-282C34?logo=whatsapp&logoColor=F1F1F1" alt="Envie-me uma mensagem no whatsapp." title="Clique aqui e me envie uma mensagem no whatsapp" height="25"/></a>
        <hr>
+       <br>
         <div align="center" style="display: inline_block">
         <picture>
         <source srcset="./img/node.svg" media="(prefers-color-scheme: dark)" />
@@ -99,5 +98,10 @@ My name is Igor, I'm a software developer from Brazil.
             <img width="70px" src="./img/git.svg">
         </picture>
         </div>
-        <br>
+
+<br>
+
+![profile count](https://komarev.com/ghpvc/?username=igorsans&color=grey&style=flat-square)
+<br>
+
 </div>
