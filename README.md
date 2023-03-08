@@ -1,7 +1,6 @@
 ```
 Hello, and welcome
 My name is Igor, I'm a software developer from Brazil.
-Master's student in analysis and systems development at the Anhanguera college.
 ```
 
 <div align="center">
