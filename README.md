@@ -98,9 +98,4 @@ My name is Igor, I'm a software developer from Brazil.
         </picture>
         </div>
 
-<br>
-
-![profile count](https://komarev.com/ghpvc/?username=igorsans&color=grey&style=flat-square)
-<br>
-
 </div>
